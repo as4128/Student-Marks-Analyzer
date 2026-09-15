@@ -27,10 +27,11 @@ The program calculates the total marks, average marks, highest mark, lowest mark
 3. Open the terminal.
 4. Run the following command:
 
-
 python student_marks_analyzer.py
 
+
 ## Example
+
 ===== Student Marks Analyzer =====
 
 Enter student name: Sai
